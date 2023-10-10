@@ -1,1 +1,1 @@
-# WIT
+# Women in Tech Mentoring Program
